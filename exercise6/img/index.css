@@ -1,0 +1,11 @@
+textarea {
+    width: 400px;
+    height: 200px;
+    resize: none;
+  }
+  
+  .buttons button {
+    padding: 10px 20px;
+    margin: 5px;
+    cursor: pointer;
+  }
